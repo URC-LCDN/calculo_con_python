@@ -8,7 +8,7 @@ Google Colabs utilizados para reforzar el aprendizaje en los cursos de Cálculo 
 
 ___
 
-## Erores & Sugerencias
+## Errores & Sugerencias
  * Encontraste un error.
  * Tienes alguna sugerencia para agregar un tema nuevo ó para alguno existente.
 
