@@ -12,7 +12,7 @@ ___
  * Encontraste un error.
  * Tienes alguna sugerencia para agregar un tema nuevo ó para alguno existente.
 
-Puedes escribir directamente un email a miguel.eva.alv@rcastellanos.cdmx.gob.mx ó levante un issue en https://github.com/URC-MAC/calculo_con_python/issues.
+Puedes escribir directamente un email a [miguel.eva.alv@rcastellanos.cdmx.gob.mx](mailto:miguel.eva.alv@rcastellanos.cdmx.gob.mx) ó levante un issue en https://github.com/URC-MAC/calculo_con_python/issues.
 ___
 
 ## Autores
