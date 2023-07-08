@@ -5,7 +5,7 @@
 Google Colabs utilizados para reforzar el aprendizaje en los cursos de Cálculo Diferencial e Integral (Semestre 2023-1) de la Licenciatura en Ciencias de Datos para Negocios de la Universidad Rosario Castellanos - Campus MAC. 
 
 ### Tronco Común 
-** [Introducción a Sympy](https://github.com/URC-MAC/calculo_con_python/blob/main/Intro_a_Sympy.ipynb)
+**[Introducción a Sympy](https://github.com/URC-MAC/calculo_con_python/blob/main/Intro_a_Sympy.ipynb)**
 
 ### Cálculo Diferencial 
 
