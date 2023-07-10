@@ -1,4 +1,4 @@
-# Cálculo + Python
+# Cálculo + `Python`
 
 ![urc_logo_ext](https://github.com/URC-MAC/calculo_con_python/assets/28746720/776b5280-352f-42af-b356-16b02c5e21fc)
 
