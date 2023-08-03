@@ -8,6 +8,7 @@ Google Colabs utilizados para reforzar el aprendizaje en los cursos de Cálculo 
 **[Introducción a Sympy](https://github.com/URC-LCDN/calculo_con_python/blob/main/Intro_a_Sympy.ipynb)**
 
 ### Cálculo Diferencial 
+**[Funciones Pares e Impares](https://github.com/URC-LCDN/calculo_con_python/blob/main/funcion_par_e_impar.ipynb)**
 
 ### Cálculo Integral 
 **[Sumas de Riemann](https://github.com/URC-LCDN/calculo_con_python/blob/main/Sumas_de_Riemann.ipynb)**
