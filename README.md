@@ -4,6 +4,8 @@
 
 Google Colabs utilizados para reforzar el aprendizaje en los cursos de Cálculo Diferencial e Integral de la Licenciatura en Ciencia de Datos para Negocios de la Universidad Rosario Castellanos. 
 
+_Nota: Trabajo en Proceso_
+
 ### Tronco Común 
 **[Introducción a Sympy](https://github.com/URC-LCDN/calculo_con_python/blob/main/Intro_a_Sympy.ipynb)**
 
