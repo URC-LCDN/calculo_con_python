@@ -10,6 +10,9 @@ _Nota: Trabajo en Proceso_
 **[Introducción a Sympy](https://github.com/URC-LCDN/calculo_con_python/blob/main/Intro_a_Sympy.ipynb)**
 
 ### Cálculo Diferencial 
+
+**[Subconjuntos del Plano](https://github.com/URC-LCDN/calculo_con_python/blob/main/SubconjuntosDelPlano.ipynb)**
+
 **[Funciones Pares e Impares](https://github.com/URC-LCDN/calculo_con_python/blob/main/funcion_par_e_impar.ipynb)**
 
 ### Cálculo Integral 
